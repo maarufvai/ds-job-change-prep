@@ -39,7 +39,7 @@ The analysis uses `crimes.csv`, a modified version of the publicly available LAP
 ## Getting started
 
 ```bash
-git clone https://github.com/your-username/lapd-crime-analysis.git
+git clone https://github.com/maarufvai/lapd-crime-analysis.git
 cd lapd-crime-analysis
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
